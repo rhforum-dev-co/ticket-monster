@@ -1,5 +1,6 @@
 package org.jboss.examples.ticketmonster.model;
 
+
 import static javax.persistence.CascadeType.ALL;
 import static javax.persistence.FetchType.EAGER;
 import static javax.persistence.GenerationType.IDENTITY;
